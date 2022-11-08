@@ -1,0 +1,25 @@
+nav {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  width: 90% !important;
+}
+nav ul a:hover {
+  background-color: transparent !important;
+  color: rgba(100, 200, 200, 1) !important;
+}
+nav a {
+  color: #333333 !important;
+  font-size: 20px !important;
+  font-weight: 500 !important;
+}
+.dark nav a {
+  color: #fff !important;
+}
+nav .nav-wrapper {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.dark .sidenav {
+  background-color: #242526 !important;
+}
